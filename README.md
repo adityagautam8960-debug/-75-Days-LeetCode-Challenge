@@ -59,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityagautam8960-debug/-75-Days-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/adityagautam8960-debug/-75-Days-LeetCode-Challenge/tree/master/0125-valid-palindrome) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/adityagautam8960-debug/-75-Days-LeetCode-Challenge/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
